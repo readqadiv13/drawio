@@ -1,0 +1,20 @@
+<iframe width="560" height="315" src="http:///Volumes/DX推進室/西野雄紀/校正アプリ入門.mp4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+
+
+<video controls width="960" height="540">
+    <source src="/Users/y-nishino/Downloads/校正アプリ入門.mp4"
+            type="video/mp4">
+
+
+</video>
+
+
+
+<video title="校正アプリ入門"
+  source src="http://10.100.11.246/movie/動画テスト.mp4"
+  controls preload="none" width="894" height="503">
+</video>
+
